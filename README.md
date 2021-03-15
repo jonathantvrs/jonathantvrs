@@ -6,10 +6,10 @@
 
 #### My interests
 
-- Technology | Tecnologia
-- Financial Market | Mercado Financeiro
-- Entrepreneurship | Empreendedorismo
-- Books | Livros
+- Technology 
+- Financial Market 
+- Entrepreneurship
+- Books
 
 #### My background
 
