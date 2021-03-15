@@ -4,14 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Tavares-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathantvrs/)](https://www.linkedin.com/in/jonathantvrs/)
 [![Gmail Badge](https://img.shields.io/badge/-jontvrs@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jontvrs@gmail.com)](mailto:jontvrs@gmail.com)
 
-#### My interests
+#### ❤️ My interests
 
-- Technology 
-- Financial Market 
-- Entrepreneurship
-- Books
+- 💻 Technology 
+- 📈 Financial Market 
+- 💼 Entrepreneurship
+- 📚 Books
 
-#### My background
+#### 🎓 My background
 
 - Technician Degree in Computer at Federal Institute of Rio Grande do Norte (2017)
 - Technician Degree in Web Development at IMD/Federal University of Rio Grande do Norte (2018)
