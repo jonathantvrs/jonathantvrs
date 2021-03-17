@@ -19,7 +19,7 @@
 - Bsc Degree in Information Technology at IMD/Federal University of Rio Grande do Norte (In Progress)
 - Technologyst Degree in Data Science at UNINTER (In Progress)
 
-#### Top Languages
+#### ⚡ Top Languages
 
 [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathantvrs&layout=compact)](https://www.github.com/jonathantvrs/)
 
