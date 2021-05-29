@@ -8,7 +8,7 @@ Founder | [Dev Seridó](https://github.com/devserido)
 
 #### ❤️ My interests
 
-- 💻 Technology 
+- 💻 Technology & Data
 - 📈 Financial Market 
 - 💼 Entrepreneurship
 - 📚 Books
