@@ -6,21 +6,6 @@
 
 Founder | [Dev Seridó](https://github.com/devserido)
 
-#### ❤️ My interests
-
-- 💻 Technology & Data
-- 📈 Financial Market 
-- 💼 Entrepreneurship
-- 📚 Books
-
-#### 🎓 My background
-
-- Technician Degree in Computer at Federal Institute of Rio Grande do Norte (2017)
-- Technician Degree in Web Development at IMD/Federal University of Rio Grande do Norte (2018)
-- Bsc Degree in Computer Science at Federal University of Campina Grande (Interrupted)
-- Bsc Degree in Information Technology at IMD/Federal University of Rio Grande do Norte (In Progress)
-- Technologyst Degree in Data Science at UNINTER (In Progress)
-
 #### ⚡ Top Languages
 
 [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathantvrs&layout=compact)](https://www.github.com/jonathantvrs/)
