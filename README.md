@@ -6,7 +6,9 @@
 
 Founder | [Dev Seridó](https://github.com/devserido)
 
+
 #### ⚡ Top Languages
+
 
 [![Languages Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathantvrs&layout=compact)](https://www.github.com/jonathantvrs/)
 
