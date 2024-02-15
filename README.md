@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I'm a passionate Full Stack Engineer currently working at [Synchro](https://www.synchro.com.br/). I have experience in various programming languages and I'm always eager to learn new things.
+---
 
 ## Skills
 
